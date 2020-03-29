@@ -84,7 +84,7 @@ void setup() {
   CircuitPlayground.begin(DAY_BRIGHTNESS);
   updateColors(time_now[2], time_now[1]); //Set to the default time
   updateLEDs();
-  //Serial.begin(9600); //Debugging
+  Serial.begin(9600); //Debugging
 }
 
 
@@ -148,9 +148,9 @@ void loop() {
       tapped_brightness_c--;
     }
      //Debugging
-    //Serial.print("Second:\t"); Serial.print(time_now[0]); Serial.print("\t");
-    //Serial.print("Minute:\t"); Serial.print(time_now[1]); Serial.print("\t");
-    //Serial.print("Hour:\t"); Serial.print(time_now[2]); Serial.print("\t"); Serial.println();
+    Serial.print("Second:\t"); Serial.print(time_now[0]); Serial.print("\t");
+    Serial.print("Minute:\t"); Serial.print(time_now[1]); Serial.print("\t");
+    Serial.print("Hour:\t"); Serial.print(time_now[2]); Serial.print("\t"); Serial.println();
     delay(100);
   }
   checkButtons();
@@ -379,5 +379,5 @@ void correctTime(int* curr, long start_ms, long stop_ms) { //Correct time <curr>
 }
 
 boolean nightTime(int hours) { //Boolean test to determine if it's night time
-  return hours >= NIGHT_START || hours <= NIGHT_STOP;
+  return hours >= NIGHT_START || hours < NIGHT_STOP;
 }
