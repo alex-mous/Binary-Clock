@@ -52,9 +52,13 @@ Next, glue in the switches as shown below and solder them up.
 
 <img src="/Assembly/Glueing_switches.JPG" width="30%" alt="Glue the buttons into place"><img src="/Assembly/Switch_wiring.JPG" width="30%" alt="Buttons wiring to the main circuit">
 
-Then, solder up the rest of the project as shown below and in the wiring diagram.
+Then, solder up the motor and alarm switch using the original wire.
 
-<img src="/Assembly/Switch_wiring.JPG" width="30%" alt="Buttons wiring to the main circuit">
+<img src="/Assembly/Motor_wiring.JPG" width="30%" alt="Motor wiring">
+
+Finally, solder up the rest of the project as shown below and in the wiring diagram.
+
+<img src="/Assembly/Complete_circuit_installed.JPG" width="30%" alt="Circuit completely assembled">
 
 
 #### Final Assembly
@@ -68,7 +72,7 @@ Place the three circles of vellum on the glass, and put the assembly inside of t
 
 Finally, reassemble the clock as it was taken apart, making sure no wires are trapped in the mechanism.
 
-<img src="/Assembly/Back_after.JPG" width="30%" alt="Back of the finished and fully assembled clock">
+<img src="/Assembly/Front_panel_installed.JPG" width="30%" alt="Electronics all added and ready to place on the back of the case"><img src="/Assembly/Back_after.JPG" width="30%" alt="Back of the finished and fully assembled clock">
 
 ### Usage
 
