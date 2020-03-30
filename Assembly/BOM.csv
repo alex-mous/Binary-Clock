@@ -1,6 +1,6 @@
 Label,Name
-SW1,???
-SW2,???
+SW1,12x12mm tactile switch
+SW2,12x12mm tactile switch
 C1,0.1uF Ceramic
 C2,0.1uF Ceramic
 R1,10k
