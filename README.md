@@ -87,7 +87,7 @@ The clock displays numbers in a binary pattern, with the top-left quadrant repre
 |:----:|:-----:|:-----:|:-----:|
 | ![](/Assembly/8_40.JPG) | ![](/Assembly/10_40.JPG) | ![](/Assembly/11_30.JPG) | ![](Assembly/17_55.JPG) |
 
-The colors represent the hours, minutes or both. The mnemonics RGB and CMY can be used to remeber which color is which time - red and cyan are hours, green and magenta are both, and blue and yellow are minutes.
+The colors represent the hours, minutes or both. The mnemonics RGB and CMY can be used to remeber which color is which time - red and cyan are hours, green and magenta are both, and blue and yellow are minutes. RGB is used for AM, whereas CMY represents PM.
 
 #### Setting and resetting the time and alarm
 Please see the table below for the various functions available. The change the times (current or alarm), first enter the time setting mode as instructed below. Then use the two buttons to increment the hours and minutes.
