@@ -71,11 +71,12 @@ Place the three circles of vellum on the glass, and put the assembly inside of t
 <img src="/Assembly/Front_inside.JPG" width="30%" alt="Front inside of the case with vellum paper installed">
 
 As an additonal step, the cover plate for the battery can be reused to cover up the battery and provide some support for the wire. To do this, file a hole into it as shown below.
+
 <img src="/Assembly/Battery_cover.JPG" width="30%" alt="Modified cover for the battery compartment">
 
 Reassemble the clock as it was taken apart, making sure no wires are trapped in the mechanism. Finally, add some labels to make the clock usable, and the clock is finished!
 
-<img src="/Assembly/Front_panel_installed.JPG" width="30%" alt="Electronics all added and ready to place on the back of the case"><img src="/Assembly/Back_after.JPG" width="30%" alt="Back of the finished and fully assembled clock">
+<img src="/Assembly/Front_panel_installed.JPG" width="30%" alt="Electronics all added and ready to place on the back of the case"><img src="/Assembly/Back_after_labelled.JPG" width="30%" alt="Back of the finished and fully assembled clock">
 
 
 
