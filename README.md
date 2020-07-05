@@ -97,10 +97,10 @@ Please see the table below for the various functions available. The change the t
 | Both buttons, 1 second      | Set the current time (LEDs flash green)               |
 | Both buttons, 2-3 seconds   | Set the alarm time, (LEDs flash blue)                 |
 | Both buttons, 4 seconds     | Reset all times to their default (disables the alarm; LEDs flash red) |
-| Either buttons, 1 second    | Briefly raise the brightness of the clock             |
+| Either buttons, 1 second    | Briefly raise the brightness of the clock (or turn on the clock's brigthness at night) |
 
 #### Extra Functionalities
-The switch on the back is provided to disable the alarm. Keep in mind that this is connected directly to the motor, so the alarm will not sound again until you flip the switch back.
+The switch on the back is provided to disable the alarm. Keep in mind that this is connected directly to the motor, so the alarm will not sound again until you flip the switch back. Also, a night mode is provided where the LEDs are off by default and only turn on briefly when either button is pressed. The default time when this is active is from 23:00 hours until 7:00 - these settings can be changed in the main.ino file (under NIGHT_START and NIGHT_STOP).
 
 ### License
 Copyright (C) 2020  PolarPiBerry
